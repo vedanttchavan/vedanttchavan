@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-- 🔭 I’m currently working on **Learning**
+- 🔭 I’m currently **Learning Tech** 
 
 - 💬 Ask me about **Html,css,javascript**
 
